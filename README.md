@@ -2,9 +2,9 @@
 <h1 align="center">Hi! I'm <a href="https://vk.com/daisy_4u" target="_blank">Daria 💁‍</a> 
 <h3 align="center">Information Security of Automated Systems Student</h3>
  
-About me: Beginner developer in the field of information security and web development.
-University: Samara University, Faculty of Informatics and Cybernetics, 3rd year
-Interests: Information security, web development, neural networks and making cakes
+ <p>About me: Beginner developer in the field of information security and web development.</p>
+ <p>University: Samara University, Faculty of Informatics and Cybernetics, 3rd year.</p>
+ <p>Interests: Information security, web development, neural networks and making cakes.</p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4u-daisy)](https://github.com/anuraghazra/github-readme-stats)
 
