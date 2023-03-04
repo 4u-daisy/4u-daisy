@@ -1,1 +1,3 @@
-Тут было красиво, но я словила депрессию 
+it's me
+
+![](https://github.com/4u-daisy/MemeGIF/blob/main/kit-superkit.gif)
